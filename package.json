@@ -1,0 +1,22 @@
+{
+  "name": "reposit-rio-para-o-complete-developer",
+  "version": "1.0.0",
+  "description": "Project of the complete developer book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolasfurutadev/Reposit-rio-para-o-Complete-Developer.git"
+  },
+  "author": "Nikolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolasfurutadev/Reposit-rio-para-o-Complete-Developer/issues"
+  },
+  "homepage": "https://github.com/nikolasfurutadev/Reposit-rio-para-o-Complete-Developer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
